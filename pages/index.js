@@ -8,6 +8,6 @@ function Home() {
     )
 
 }
-ls -l
+
 
 export default Home;
